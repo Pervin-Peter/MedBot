@@ -1,0 +1,26 @@
+
+# MedBot application and RAG
+streamlit==1.66.0
+requests==2.34.2
+beautifulsoup4==4.15.0
+numpy==2.5.4
+pandas==3.0.6
+faiss-cpu==1.15.1
+sentence-transformers==6.1.0
+scikit-learn==1.9.1
+
+# LLM inference and fine-tuning
+torch==2.11.0
+transformers==5.20.1
+peft==0.21.2
+accelerate==1.15.0
+bitsandbytes==0.50.2
+datasets==5.1.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+trl==1.16.0
+
+# Utilities and evaluation
+tqdm==4.70.1
+evaluate==0.4.6
+rouge_score==0.1.2
