@@ -1,0 +1,48 @@
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Logs and temporary files
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Generated training outputs
+medbot_phase2_masking_test/
+medbot_phase2_smoke_test/
+medbot_phase2_test_output/
+
+# Generated Python caches
+*.pyo
+
+
+# Trained model and checkpoint outputs
+medbot_phase2_full/
+
+# Temporary generated test outputs
+medbot_phase2_masking_test/
+medbot_phase2_smoke_test/
+medbot_phase2_test_output/
+
+# Python cache files
+*.pyo
+
+# Generated Phase 1 datasets
+medbot_phase1_output/*.jsonl

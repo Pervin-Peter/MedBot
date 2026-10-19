@@ -1,0 +1,13 @@
+{
+  "source_documents": 5,
+  "document_chunks": 41,
+  "embedding_windows_indexed": 81,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "document_chunk_size_tokens": 800,
+  "document_chunk_overlap_tokens": 100,
+  "embedding_window_tokens": 180,
+  "embedding_window_overlap_tokens": 30,
+  "chunking_strategy": "heading and paragraph aware",
+  "index_type": "FAISS IndexFlatIP with normalized embeddings"
+}

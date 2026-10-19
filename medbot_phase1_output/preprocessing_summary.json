@@ -1,0 +1,14 @@
+{
+  "dataset": "AnonymousSub/MedQuAD_47441_Question_Answer_Pairs",
+  "source_split": "train",
+  "source_rows_processed": 47441,
+  "question_column": "Questions",
+  "answer_column": "Answers",
+  "valid_unique_records": 16359,
+  "empty_rows_removed": 31034,
+  "duplicate_rows_removed": 48,
+  "training_records": 13087,
+  "validation_records": 3272,
+  "validation_ratio": 0.2,
+  "random_seed": 42
+}

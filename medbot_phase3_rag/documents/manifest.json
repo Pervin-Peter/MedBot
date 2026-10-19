@@ -1,0 +1,47 @@
+[
+  {
+    "file": "document_01.json",
+    "title": "Diabetes | Type 1 Diabetes | Type 2 Diabetes | MedlinePlus",
+    "source": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/diabetes.html",
+    "word_count": 1722,
+    "preview": "Diabetes\nBasics\nLearn More\nSee, Play and Learn\nResearch\nResources\nFor You\nSummary\nWhat is diabetes?\nDiabetes, also known as diabetes mellitus, is a disease in which your blood glucose , or blood sugar, levels are too high. Glucose is your body's main source of energy. Your body can make glucose, but it also comes from the food you eat. Insulin is a",
+    "status": "success"
+  },
+  {
+    "file": "document_02.json",
+    "title": "High Blood Pressure | Hypertension | MedlinePlus",
+    "source": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/highbloodpressure.html",
+    "word_count": 1291,
+    "preview": "High Blood Pressure\nBasics\nLearn More\nSee, Play and Learn\nResearch\nResources\nFor You\nSummary\nWhat is blood pressure?\nBlood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is call",
+    "status": "success"
+  },
+  {
+    "file": "document_03.json",
+    "title": "Diabetes Basics | Diabetes | CDC",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/diabetes/about/index.html",
+    "word_count": 714,
+    "preview": "Diabetes Basics\nKey points\nDiabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy.\nThere are three main types of diabetes: type 1, type 2, and gestational diabetes (diabetes while pregnant).\nOverview\nYour body breaks down most of the food you eat into sugar (glucose) and releases it into your bloodst",
+    "status": "success"
+  },
+  {
+    "file": "document_04.json",
+    "title": "Diabetes",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "word_count": 1174,
+    "preview": "Key facts\nThe number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.\nMore than half of people living with diabetes did not take medication for their diabetes in 2022. Diabetes treatment coverage was lowest ",
+    "status": "success"
+  },
+  {
+    "file": "document_05.json",
+    "title": "Asthma | Asthma Symptoms | Asthma Attack | MedlinePlus",
+    "source": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/asthma.html",
+    "word_count": 1791,
+    "preview": "Asthma\nBasics\nLearn More\nSee, Play and Learn\nResearch\nResources\nFor You\nSummary\nWhat is asthma?\nAsthma is a chronic (long-term) lung disease. It affects your airways, the tubes that carry air in and out of your lungs. When you have asthma, your airways can become inflamed and narrowed. This can cause wheezing, coughing , and tightness in your chest",
+    "status": "success"
+  }
+]
